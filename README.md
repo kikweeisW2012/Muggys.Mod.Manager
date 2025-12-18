@@ -3,6 +3,10 @@
 
 Muggys.Mod.Manager Utilizes [BepinEx](https://github.com/BepInEx/BepInEx) and [MelonLoader](https://github.com/LavaGang/MelonLoader) to help manage cuphead mods
 ____
+## Adding Basic Mods
+To add BepInEx Mods add them in the folder "Cuphead\BepInEx\Plugins"
+To add MelonLoader Mods add them in the folder "Cuphead\Mods"
+____
 ## Usage
 1. Download Version V0.1.0
 2. Extract into Cuphead folder
