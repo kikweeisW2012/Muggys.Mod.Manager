@@ -4,7 +4,7 @@
 Muggys.Mod.Manager(MMM) Utilizes [BepinEx](https://github.com/BepInEx/BepInEx) and [MelonLoader](https://github.com/LavaGang/MelonLoader) to help manage cuphead mods
 ____
 ## Usage
-1. Download Version V0.1.0
+1. Download Version V0.1.1
 2. Extract into Cuphead root folder
 3. Run Cuphead then close it
 4. Run MuggysModManager.bat
