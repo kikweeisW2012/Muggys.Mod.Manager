@@ -15,10 +15,16 @@ To add BepInEx Mods add them in the folder "Cuphead\BepInEx\Plugins"
 To add MelonLoader Mods add them in the folder "Cuphead\Mods"
 ____
 ## Using Auto HotKey
-1. Place your .ahk file in the Cuphead root rolder (Cuphead\)
-2. Rename your AHK file to "cuphead.ahk"
+1. Convert your ahk file to exe
+2. Place your ahk file in the Cuphead root folder
+3. Rename your ahk file to "Cuphead_AHK.exe"
 Now it should run while using MMM
 ____
 ## Versions
+### V0.1.1
+Changed to C#
+
+Fixed AHK
+____
 ### V0.1.0
 Batch file version allows a vanilla launch, BepInEx launch, or MelonLoader launch with AHK
